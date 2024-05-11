@@ -16,6 +16,7 @@ app.use(
     origin: [
       "https://adminelectonic.vercel.app",
       "https://electronic-rust.vercel.app",
+      "http://localhost:3000"
       // "https://sbtadmin.vercel.app",
       // "https://www.soilboostertechnologies.in",
     ], // Change this to your frontend's URL
